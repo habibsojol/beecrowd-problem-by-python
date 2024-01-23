@@ -1,0 +1,5 @@
+A = float(input())
+B = float(input())
+
+L = A/B
+print(f"{L:.3f} km/l")
