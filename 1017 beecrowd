@@ -1,0 +1,4 @@
+t = int(input())
+s = int(input())
+f = (t * s)/12
+print(f"{f:.3f}")
