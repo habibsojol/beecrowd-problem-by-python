@@ -1,0 +1,6 @@
+n1 = list(map(int, input().split()))
+A, B = n1
+
+S = ((B * (B + 1)) - (A * (A - 1)))/2
+
+print("%d" %S)
